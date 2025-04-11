@@ -1,0 +1,4 @@
+void memoryInit() {
+  EEPROMInit();
+  FRAMInit();
+}
